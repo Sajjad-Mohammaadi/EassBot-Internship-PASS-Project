@@ -1,5 +1,5 @@
 <div align="center">
-<img src="docs/source/_static/images/source_separation_io.png" width="50%">
+<img src="asteroid/docs/source/_static/images/source_separation_io.png" width="50%">
 
 **EassBot the English audio source separator bot in Telegram**
 
