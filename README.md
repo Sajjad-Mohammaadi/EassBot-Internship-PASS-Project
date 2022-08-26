@@ -16,7 +16,6 @@ EassBot is a Telegram bot that can receive a sound that is a combination of two 
 
 ## Contents
 - [Installation prerequisites](#installation-prerequisites)
-- [Tutorials](#tutorials)
 - [Bot link and commands](#Bot-link-and-commands)
 - [Supported datasets](#supported-datasets)
 - [Use other Pretrained models](#use-other-pretrained-models)
@@ -48,10 +47,6 @@ conda activate asteroid
 ```bash
 pip install asteroid
 ```
-
-## Tutorials
-([↑up to contents](#contents))
-Here is a list of notebooks showing example usage of Asteroid's features.if you want to use  this code you must change every directory path that exist in code to what you want.
 
 
 ## Bot link and commands
